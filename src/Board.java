@@ -15,7 +15,7 @@ public class Board {
             for(int j = 0; j<board.length(); j++){
                 for(int k = 0; k<board[0].length(); k++){
 
-                }
+                }g
             }
         }
     }
