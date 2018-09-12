@@ -7,7 +7,7 @@ public class Board {
 
     public String fillBoard(String textfile, int board){
         for(int i = 0; i<textfile.length(); i++){
-          String
+          Stringf
 
 
             }
