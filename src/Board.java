@@ -1,11 +1,11 @@
-public class Board {
+//public class Board {
 
 //    private static String readLineByLine(String filepath) {
 ////        StringBuilder
 //    }
 
 
-    public String fillBoard(String textfile, int board){
+   /* public String fillBoard(String textfile, int board){
         for(int i = 0; i<textfile.length(); i++){
           String
 
@@ -21,3 +21,4 @@ public class Board {
     }
 
 }
+*/
